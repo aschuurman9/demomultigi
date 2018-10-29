@@ -1,1 +1,2 @@
 tweede document 	//anne-marije
+boolean toegevoegd = true; // Javiel
