@@ -1,2 +1,3 @@
 tweede document 	//anne-marije
 boolean toegevoegd = true; // Javiel jojojo
+Dit is een stuk tekst
